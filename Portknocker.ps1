@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-Mein TTest
+
 .DESCRIPTION
   This Script is for sending TCP- and UDP-packages over severals Ports.
   I use it for knockd for Linux, because there are only old Windows-clients for portknocking in the internet.
